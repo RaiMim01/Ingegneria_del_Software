@@ -67,16 +67,16 @@ public class Esercizio1 {
     public static void main(String[] args) {
         List<Veicolo> flotta = new ArrayList<>();
 
-        // Aggiunta di veicoli alla flotta
+        // Aggiunta di veicoli 
         flotta.add(new Auto("AB123CD"));
         flotta.add(new Moto("EF456GH"));
 
-        // Avvio di tutti i veicoli nella flotta
+        // Avvio di tutti i veicoli 
         for (Veicolo veicolo : flotta) {
             veicolo.avvia();
         }
 
-        // Fermata di tutti i veicoli nella flotta
+        // Fermata di tutti i veicoli 
         for (Veicolo veicolo : flotta) {
             veicolo.ferma();
         }
