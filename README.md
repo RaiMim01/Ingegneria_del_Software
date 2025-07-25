@@ -1,1 +1,1 @@
-Esercizi di Ingegneria del Software, prof Alessandro Lazzarini
+Esercizi per il corso di Ingegneria del Software del professore Alessandro Lazzarini Unife
